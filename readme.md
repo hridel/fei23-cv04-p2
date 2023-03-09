@@ -9,7 +9,7 @@ char *p_myString = NULL;
 int comparison = 0;
 ```
 
-Načtěte řetězce myString1 a myString2. Zjistěte a vypište délku obou řetězců.
+Načtěte řetězce `myString1` a `myString2`. Zjistěte a vypište délku obou řetězců.
 
 Zkopírujte `myString2` do `myString3`.
 
